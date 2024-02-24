@@ -1,0 +1,13 @@
+/* Styles */
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline;
+    color: cadetblue;
+    font-weight: 900;
+}
+
+.block {
+    border: 1px solid #000;
+    border-radius: 3px;
+    padding: 4px;
+}
